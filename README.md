@@ -30,10 +30,15 @@
 ![Trello](https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&logoColor=%23fff&logoSize=auto)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+## AI tools
+![Claude](https://img.shields.io/badge/Claude-%23D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-%234285F4?style=for-the-badge&logo=google&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%23412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-%23000000?style=for-the-badge&logo=opencode&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
 ## Projects I participated in
@@ -67,4 +72,3 @@ A web page integrated with an AI virtual assistant.
 👉 [Go to the repository](https://github.com/NoelMoriano/eterna-verde)
 
 Check it out! [Click here!](https://eterna-verde.web.app/)
-
